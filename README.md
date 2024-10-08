@@ -1,0 +1,3 @@
+### Sitemap builder for dynamic URLs
+
+To use this script, you need to provide the filter options by populating the data arrays. Set the baseUrl variable to your website’s base URL where the filters are applied. Ensure that the URL parameters match the query parameters used on your site. Once configured, the script will generate URLs for all possible filter combinations, creating a sitemap with the valid URLs.
